@@ -1,15 +1,3 @@
-# GitHub Profile README — CesarMG-dev (Personal)
-#
-# HOW TO USE:
-#   1. Go to github.com and create a NEW repository named exactly: CesarMG-dev
-#   2. Make it Public and initialize it with a README
-#   3. Replace the default README.md content with everything below the divider line
-#   4. Commit — GitHub will automatically display it on your profile page
-#
-# ─────────────────────────────────────────────────────────────────────────────
-# PASTE BELOW THIS LINE INTO: github.com/CesarMG-dev/CesarMG-dev/README.md
-# ─────────────────────────────────────────────────────────────────────────────
-
 <h1 align="center">Cesar Maturral Garriga</h1>
 
 <p align="center">
