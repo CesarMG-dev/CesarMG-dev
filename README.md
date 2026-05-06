@@ -1,7 +1,7 @@
 <h1 align="center">Cesar Maturral Garriga</h1>
 
 <p align="center">
-  <strong>Founder &amp; Lead Engineer &nbsp;·&nbsp; <a href="https://www.matby5.com">Matby5</a></strong><br/>
+  <strong>Founder - CEO &amp; Lead Engineer &nbsp;·&nbsp; <a href="https://www.matby5.com">Matby5</a></strong><br/>
   Building premium digital products for businesses that demand results
 </p>
 
